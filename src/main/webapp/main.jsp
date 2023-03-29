@@ -2,11 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Main </title>
+    <title>JSP - Main </title>
 </head>
 <body>
-<h1><%= "Main! From HTML" %>
-</h1>
+<h1><%= "Main! From HTML" %></h1>
 <br/>
 <a href="main">Main Servlet</a>
 </body>
